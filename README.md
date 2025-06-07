@@ -4,7 +4,7 @@ A basic chatbot for screening tech candidates, built with Streamlit and xAI's Gr
 
 ## Installation Instructions
 
-Clone the repository: git clone https://github.com/yourusername/talentscout-hiring-assistant.git
+Clone the repository: git clone (https://github.com/TanishSharma2004/talentscout_hiring_assistant)
 Create a virtual environment: python -m venv venv
 Activate it: source venv/bin/activate (Linux/Mac) or venv\Scripts\activate (Windows)
 Install dependencies: pip install -r requirements.txt
